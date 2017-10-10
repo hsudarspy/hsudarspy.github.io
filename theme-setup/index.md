@@ -115,13 +115,13 @@ Your site's logo, appears in the header below the navigation bar and is used as 
 
 #### url
 
-Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page's `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
+Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page's `<head>`. When developing locally either comment this out or use something like `http://https://hsudarspy.github.io/` so all assets load properly. *Don't include a trailing `/`*.
 
 Examples:
 
 ```yaml
 url: https://mmistakes.github.io/so-simple-theme
-url: http://localhost:4000
+url: http://https://hsudarspy.github.io/
 url: http://yourdomain.com
 url: 
 ```
