@@ -4,11 +4,11 @@ title: "Testing Readability with a Bunch of Text"
 excerpt: "A ton of text to test readability."
 categories: articles
 tags: [Python,Data Science]
-image:
+<!-- image:
   path: http://example.com/so-simple-sample-image-1.jpg
   feature: so-simple-sample-image-2.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 comments: true
 share: true
 ---
