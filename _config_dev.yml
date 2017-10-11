@@ -5,7 +5,7 @@ locale: en_US
 description: I love to blog.
 logo: harish.jpg
 search: true
-url: http://hsudarspy.github.io/
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -59,4 +59,4 @@ owner:
   bing-verify:
 
 
-environment: production
+environment: development
