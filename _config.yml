@@ -2,11 +2,7 @@
 
 title: Keep It Simple Stupid..
 locale: en_US
-<<<<<<< HEAD
 description: "- The KISS Principle"
-=======
-description: The function of good software is to make the complex appear to be simple - Grady Booch.
->>>>>>> ef41659b2d1dcccbdf8ec0630bb49bd24b8ed076
 logo: harish.jpg
 search: true
 url: http://harishblogs.com
