@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Harish Blogs
+title: Keep It Simple Stupid..
 locale: en_US
-description: I love to blog.
+description: "- The KISS Principle"
 logo: harish.jpg
 search: true
 url: http://localhost:4000
@@ -37,9 +37,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Harish Sudarsanan
-  avatar: #harish.jpg
+  avatar: harish.jpg
   email: mail2harishsudarsanan@email.com
-  disqus-shortname:
+  disqus-shortname: harishblogs
   twitter: #username
   facebook: #username
   github: #username
