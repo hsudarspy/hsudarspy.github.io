@@ -10,7 +10,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 Yo — I’m Harish Sudarsanan, just another boring, time traveling fellow from India(Kerala) who loves to blog occasionally. I’m in to designing and coding in my macbook, eating chicken wings, watching dust collect on my music archives, and playing occasional games which suit the moment.
 
-When I’m not building stuff at home, I work as a Data Migration Consultant/Engineer for a [**global automotive company**](http://mbrdi.co.in/). On any given day I could be coding or reading stuff which helps me make better. And if that wasn’t enough to keep me busy — I’m having freaking bachelor friends.
+When I’m not building stuff at home, I work as a Data Migration Consultant/Engineer for a [**global automotive company**](http://mbrdi.co.in/). On any given day I could be coding or reading stuff which helps in making myself better. And if that wasn’t enough to keep me busy — I’m having freaking bachelor friends.
 
 ## About the Site:
 
